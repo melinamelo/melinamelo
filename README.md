@@ -1,44 +1,20 @@
-<table align="right">
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="README.md">Português 🇧🇷</a>
-      </b>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
-    </td>
-  </tr>
-</table>
-<hr/>
+![Banner da Melina](https://github.com/melinamelo/melinamelo/assets/129418404/ebc1de25-0a81-4500-9272-5996a0ce1b88)
 
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
-  <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./download/download" />
-</a>
 <br/><br/>
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Luk4x&labelColor=%23333333&countColor=%23527bbf&labelStyle=upper&label=Visitantes" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
-</div>
 <hr/>
 
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
 <img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
-  <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
-  <li>💻 <b>Trabalho</b> na <a href="https://www.delta-code.online/" target="_blank">Delta Code</a> e já estudei na <a href="https://www.origamid.com/" target="_blank">Origamid</a>, <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-  <li>🔭 Com mais de 2 anos de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-  <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end e Mobile.</li>
-  <li>🚀 Evoluindo continuamente em <strong>React.js</strong> e em seu ecossistema.</li>
-  <li>🇺🇸 Tenho inglês intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://tracker.gg/valorant/profile/riot/Luk4x%23null/overview?playlist=unrated&season=all" target="_blank">Valorant</a>, <a href="https://osu.ppy.sh/users/13780075" target="_blank">Osu</a>, <a href="https://namemc.com/profile/Kiy0u.1" target="_blank">HG/PotPvP</a>, e <a href="https://www.chess.com/member/kiy0u" target="_blank">Xadrez</a>.</li>
-  <li>
+  <li>❦ - gosto de jogos, música e dança.</li>
+  <li>❦ - sou estudante do 3EM no SESI/SENAI</li>
+  <li>❦ - Sou apaixonada pelo Frint-End.</li>
+  <li>❦ - Curso: Desenvolvimento de Sistemas.</li>
     <details>
-      <summary>👽 Curiosidades:</summary>
+      <summary>❦ - Curiosidades:</summary>
       <ul>
-        <li>🤖 Estruturo minha rotina em Javascript.</li>  
-        <li>⛩️ Já assisti mais de 450 animes.</li>
+        <li>♡ - 23/09/2006</li>  
+        <li>⛩️ .</li>
       </ul>
     </details>
   </li>
