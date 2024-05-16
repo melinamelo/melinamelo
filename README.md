@@ -1,12 +1,10 @@
-![Banner da Melina](https://github.com/melinamelo/melinamelo/assets/129418404/d8c72cf7-b417-4265-aeb3-d92b46569567)
+![melina](https://github.com/melinamelo/melinamelo/assets/129418404/fdf960b6-1dc0-42b6-8d5b-95ea7ad09ea8)
+
 
 
 
 <br/><br/>
 <hr/>
-
-<img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
-<img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
   <li>❦ - gosto de jogos, música e dança.</li>
   <li>❦ - sou estudante do 3EM no SESI/SENAI</li>
@@ -16,21 +14,16 @@
       <summary>❦ - Curiosidades:</summary>
       <ul>
         <li>♡ - 23/09/2006</li>  
-        <li>⛩️ .</li>
+        <li>♡ - Sei mais de 50 coreográfias .</li>
       </ul>
     </details>
   </li>
 </ul>
 <br/>
-<div align="center">
-  <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
-    <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luk4x no momento" />
-  </a>
-</div>
 <hr/>
 
-<img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
-<img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+![220px-Jão_-_Anti-Herói](https://github.com/melinamelo/melinamelo/assets/129418404/e73936e5-b46f-4caf-890c-5265c5d33d13)
+
 <table align="right" height="255px">
   <tr>
     <td align="center">
