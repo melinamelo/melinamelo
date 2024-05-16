@@ -1,4 +1,6 @@
-![Banner da Melina](https://github.com/melinamelo/melinamelo/assets/129418404/ebc1de25-0a81-4500-9272-5996a0ce1b88)
+![Banner da Melina](https://github.com/melinamelo/melinamelo/assets/129418404/d8c72cf7-b417-4265-aeb3-d92b46569567)
+
+
 
 <br/><br/>
 <hr/>
