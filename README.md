@@ -153,10 +153,10 @@
 <hr/>
 
 <br/>
-<img align="left" height="415px" width="470px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=melinamelo&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<img align="left" height="415px" width="300px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=melinamelo&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 <div align="right">
-  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=melinamelo&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-  <img height="203px" src="https://streak-stats.demolab.com?user=melinamelo&theme=tokyonight&hide_border=true" />
+  <img height="203px" width="300px" src="https://luk4x-github-readme-stats.vercel.app/api?username=melinamelo&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="203px" width="300px"src="https://streak-stats.demolab.com?user=melinamelo&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 
