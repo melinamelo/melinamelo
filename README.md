@@ -24,7 +24,7 @@
 <div display="flex">
 <img src="https://github.com/melinamelo/melinamelo/assets/129418404/e33ad5cc-9d8a-4e2c-adc9-b76a1f4f3f29">
 
-  <table align="right" margin-top="100px" height="255px">
+  <table align="right" height="255px">
     <tr>
       <td align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px"/><br/>
